@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-06-09 00:14:52
+<?php /* Smarty version Smarty-3.1.19, created on 2016-06-09 14:51:30
          compiled from "C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\clickbeauty\modules\themeconfigurator\views\templates\admin\new.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:302285758fb4c8b9cd8-62092376%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '4d222a9b31ecbfe0a33f0cc56aefa7719d3c69f6' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\clickbeauty\\modules\\themeconfigurator\\views\\templates\\admin\\new.tpl',
-      1 => 1460131480,
+      1 => 1465497949,
       2 => 'file',
     ),
   ),
@@ -15,14 +15,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5758fb4cb37208_12347196',
   'variables' => 
   array (
     'htmlitems' => 0,
     'lang' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5758fb4cb37208_12347196',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5758fb4cb37208_12347196')) {function content_5758fb4cb37208_12347196($_smarty_tpl) {?>
 

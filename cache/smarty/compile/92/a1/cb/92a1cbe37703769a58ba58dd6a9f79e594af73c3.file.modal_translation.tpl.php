@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-06-09 00:12:18
+<?php /* Smarty version Smarty-3.1.19, created on 2016-06-09 14:34:38
          compiled from "C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\clickbeauty\admin817hc3rsy\themes\default\template\controllers\modules\modal_translation.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:145015758fab27dd049-20204176%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '92a1cbe37703769a58ba58dd6a9f79e594af73c3' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\clickbeauty\\admin817hc3rsy\\themes\\default\\template\\controllers\\modules\\modal_translation.tpl',
-      1 => 1460131476,
+      1 => 1465497936,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5758fab296aa41_50927825',
   'variables' => 
   array (
     'module_languages' => 0,
@@ -23,8 +25,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'module_name' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5758fab296aa41_50927825',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5758fab296aa41_50927825')) {function content_5758fab296aa41_50927825($_smarty_tpl) {?>
 <div class="modal-body">

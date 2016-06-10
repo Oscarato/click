@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-06-09 00:15:04
+<?php /* Smarty version Smarty-3.1.19, created on 2016-06-09 14:24:08
          compiled from "C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\clickbeauty\admin817hc3rsy\themes\default\template\controllers\themes\helpers\form\form.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:321465758fb58a4ad03-55912730%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,19 +7,19 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '419053177eca42198f629de74c74dfe3cbf96c81' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\clickbeauty\\admin817hc3rsy\\themes\\default\\template\\controllers\\themes\\helpers\\form\\form.tpl',
-      1 => 1460131476,
+      1 => 1465497936,
       2 => 'file',
     ),
     '7b92917690f9fdb886e8589df8cf898c71f80e78' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\clickbeauty\\admin817hc3rsy\\themes\\default\\template\\helpers\\form\\form.tpl',
-      1 => 1460131476,
+      1 => 1465497936,
       2 => 'file',
     ),
     '42a1c686f503af0e23654dbeb02261cd507b1b08' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\clickbeauty\\admin817hc3rsy\\themes\\default\\template\\helpers\\form\\form_group.tpl',
-      1 => 1460131476,
+      1 => 1465497936,
       2 => 'file',
     ),
   ),
@@ -27,6 +27,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5758fb5eedf6b3_31133881',
   'variables' => 
   array (
     'fields' => 0,
@@ -78,8 +80,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'use_textarea_autosize' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5758fb5eedf6b3_31133881',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5758fb5eedf6b3_31133881')) {function content_5758fb5eedf6b3_31133881($_smarty_tpl) {?><?php if (!is_callable('smarty_function_counter')) include 'C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\clickbeauty\\tools\\smarty\\plugins\\function.counter.php';
 ?>
@@ -1245,7 +1245,7 @@ $_smarty_tpl->tpl_vars['v']->_loop = true;
 									<?php /*  Call merged included template "helpers/form/form_group.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
  $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('helpers/form/form_group.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0, '321465758fb58a4ad03-55912730');
-content_5758fb5d8a1dd0_03115040($_smarty_tpl);
+content_5759c25aed9408_35628290($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); 
 /*  End of included template "helpers/form/form_group.tpl" */?>
 								<?php } elseif ($_smarty_tpl->tpl_vars['input']->value['type']=='shop') {?>
@@ -1624,9 +1624,9 @@ $_smarty_tpl->tpl_vars['language']->_loop = true;
 	</script>
 <?php }?>
 <?php }} ?>
-<?php /* Smarty version Smarty-3.1.19, created on 2016-06-09 00:15:09
+<?php /* Smarty version Smarty-3.1.19, created on 2016-06-09 14:24:10
          compiled from "C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\data\localweb\clickbeauty\admin817hc3rsy\themes\default\template\helpers\form\form_group.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_5758fb5d8a1dd0_03115040')) {function content_5758fb5d8a1dd0_03115040($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5759c25aed9408_35628290')) {function content_5759c25aed9408_35628290($_smarty_tpl) {?>
 
 <?php if (count($_smarty_tpl->tpl_vars['groups']->value)&&isset($_smarty_tpl->tpl_vars['groups']->value)) {?>
 <div class="row">
